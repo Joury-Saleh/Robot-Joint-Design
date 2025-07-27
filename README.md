@@ -29,7 +29,8 @@ This repository contains the analysis of three different joint designs created i
 - Low stress in the base regions (blue areas)
 
 ### Design 2: Reinforced Joint with Central Connection
-![Design 2](Image_2_reference)
+![Design 2](joint-2/joint-2.png)
+![Design 2](joint-2/joint-2-FEA.png)
 
 **Key Features:**
 - Integrated design with central connecting element
@@ -42,7 +43,8 @@ This repository contains the analysis of three different joint designs created i
 - Better load distribution through the central connection
 
 ### Design 3: Compact U-Shaped Joint
-![Design 3](Image_3_reference)
+![Design 3](joint-3/joint-3.png)
+![Design 3](joint-3/joint-3-FEA.png)
 
 **Key Features:**
 - U-shaped configuration
