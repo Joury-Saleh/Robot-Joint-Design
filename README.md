@@ -15,7 +15,8 @@ This repository contains the analysis of three different joint designs created i
 ## Design Variants
 
 ### Design 1: Standard Joint Configuration
-![Design 1](Image_1_reference)
+![Design 1](joint-1/joint-1)
+![Design 1](joint-1/joint-1-FEA)
 
 **Key Features:**
 - Two separate joint components
